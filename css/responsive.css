@@ -1,0 +1,49 @@
+
+@media(max-width:400px){
+.header-img {
+
+width: 30%;
+}
+
+h1,
+h2 {
+font-size: 1.2em;
+}
+
+.in-1 {
+width: 100%;
+}
+
+.header-name,
+.in-1 {
+
+text-align: right;
+}
+
+.name-subscript {
+font-size: 0.9em;   
+}
+
+h3 {
+font-size: 0.8em;
+}
+
+.section-3 {
+-webkit-flex-direction: column;
+flex-direction: column;
+}
+
+.discription {
+margin-bottom: 10px;
+}
+
+
+
+.img-3,
+.discription {
+width :100%;
+
+}
+
+
+}
